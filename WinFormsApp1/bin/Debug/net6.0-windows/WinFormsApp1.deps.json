@@ -1,0 +1,59 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WinFormsApp1/1.0.0": {
+        "dependencies": {
+          "Microsoft.VisualStudio.OLE.Interop": "17.12.40391"
+        },
+        "runtime": {
+          "WinFormsApp1.dll": {}
+        }
+      },
+      "Microsoft.VisualStudio.Interop/17.12.40391": {
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.VisualStudio.Interop.dll": {
+            "assemblyVersion": "17.0.0.0",
+            "fileVersion": "17.12.40390.54047"
+          }
+        }
+      },
+      "Microsoft.VisualStudio.OLE.Interop/17.12.40391": {
+        "dependencies": {
+          "Microsoft.VisualStudio.Interop": "17.12.40391"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.VisualStudio.OLE.Interop.dll": {
+            "assemblyVersion": "17.0.0.0",
+            "fileVersion": "17.12.40391.52126"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WinFormsApp1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.VisualStudio.Interop/17.12.40391": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rqFm1ldxTO1fY1jk9eMQYBy4YJNYrshy3BxLuOmQtAhGBilwySHRhNDcHulKaSOW7FTqlZ3FVKSdbLpjo8w2aA==",
+      "path": "microsoft.visualstudio.interop/17.12.40391",
+      "hashPath": "microsoft.visualstudio.interop.17.12.40391.nupkg.sha512"
+    },
+    "Microsoft.VisualStudio.OLE.Interop/17.12.40391": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-7Z2Imu7W+jAZ9JmSCBGDR4b2FjiiECxye/iP2SntsC8Kk3cXkmCGBo5ohffVjPaYCmSZwkc0BwziC3GX/6dX4w==",
+      "path": "microsoft.visualstudio.ole.interop/17.12.40391",
+      "hashPath": "microsoft.visualstudio.ole.interop.17.12.40391.nupkg.sha512"
+    }
+  }
+}

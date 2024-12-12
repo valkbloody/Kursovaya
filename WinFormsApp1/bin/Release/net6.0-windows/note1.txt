@@ -1,0 +1,41 @@
+﻿/Clients/
+3#0000000003#3#3
+324#0034343423#3434#343443
+ц2#0000233333#3333#3333
+/Roots/
+Архангельск Мурманск Владивосток Певек Мезень Магадан 
+Мезень - Владивосток Мурманск - Певек 
+Магадан - - - - Певек 
+Певек - - - - Владивосток 
+/Consigments/
+/Loads/
+3#3#3#kg#3
+/Consigment/
+2321/33#33#3 3#324 343443#16.07.2024#04.12.2024#Мурманск#Мезень
+/Loads/
+23#2333#2333#kg#324
+/Consigment/
+233/23#23#3 3#324 343443#06.12.2024#08.03.2025#Магадан#Певек
+/Loads/
+5153#3143#4343#kuntal#3434
+/Consigment/
+233/2323#2323#3 3#324 343443#11.07.2024#04.12.2024#Певек#Владивосток
+/Vessels/
+23#f f f#tanker#43434#2000#C:\Users\daby34\Desktop\Кусовая\WinFormsApp1\Properties\vess1.png#Архангельск
+113#f f q#bulker#2333#2000#C:\Users\daby34\Desktop\Кусовая\WinFormsApp1\Properties\vess2.png#Магадан
+32#F f f#tanker#23#2000#C:\Users\daby34\Desktop\Кусовая\WinFormsApp1\Properties\vess2.png#Мурманск
+/Flights/
+/Flight/
+23#f f f#tanker#43434#2000#C:\Users\daby34\Desktop\Кусовая\WinFormsApp1\Properties\vess1.png#Архангельск
+Архангельск Мурманск Владивосток Певек Мезень Магадан 
+/Loads/
+3#3#3#kg#3
+/Consigment/
+2321/33#33#3 3#324 343443#16.07.2024#04.12.2024#Мурманск#Мезень
+/Flight/
+23#f f f#tanker#43434#2000#C:\Users\daby34\Desktop\Кусовая\WinFormsApp1\Properties\vess1.png#Архангельск
+Магадан - - - - Певек 
+/Loads/
+23#2333#2333#kg#324
+/Consigment/
+233/23#23#3 3#324 343443#06.12.2024#08.03.2025#Магадан#Певек

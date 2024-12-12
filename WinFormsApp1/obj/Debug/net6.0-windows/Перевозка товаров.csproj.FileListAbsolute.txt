@@ -1,0 +1,7 @@
+C:\Users\daby34\Desktop\Кусовая\WinFormsApp1\obj\Debug\net6.0-windows\Перевозка_товаров.Properties.Resources.resources
+C:\Users\daby34\Desktop\Кусовая\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1._Database.resources
+C:\Users\daby34\Desktop\Кусовая\WinFormsApp1\obj\Debug\net6.0-windows\Перевозка товаров.csproj.GenerateResource.cache
+C:\Users\daby34\Desktop\Кусовая\WinFormsApp1\obj\Debug\net6.0-windows\Перевозка товаров.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daby34\Desktop\Кусовая\WinFormsApp1\obj\Debug\net6.0-windows\Перевозка товаров.AssemblyInfoInputs.cache
+C:\Users\daby34\Desktop\Кусовая\WinFormsApp1\obj\Debug\net6.0-windows\Перевозка товаров.AssemblyInfo.cs
+C:\Users\daby34\Desktop\Кусовая\WinFormsApp1\obj\Debug\net6.0-windows\Перевозка товаров.csproj.CoreCompileInputs.cache

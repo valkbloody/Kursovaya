@@ -1,0 +1,3 @@
+C:\Users\daby34\Desktop\Кусовая\WinFormsApp1\obj\Debug\net6.0\win-x64\WinFormsApp1.Properties.Resources.resources
+C:\Users\daby34\Desktop\Кусовая\WinFormsApp1\obj\Debug\net6.0\win-x64\WinFormsApp1._Database.resources
+C:\Users\daby34\Desktop\Кусовая\WinFormsApp1\obj\Debug\net6.0\win-x64\WinFormsApp1.csproj.GenerateResource.cache

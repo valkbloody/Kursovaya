@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9uVPlgelV7VZWD/be3Eyk8EYvjnZSIjirNqxNSK0u82AnHXEHUQvtacXmAJVfOfd9r/Omhl16hqNnH06k/bdEA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\daby34\\Desktop\\Кусовая\\WinFormsApp1\\WinFormsApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\daby34\\.nuget\\packages\\microsoft.visualstudio.interop\\17.12.40391\\microsoft.visualstudio.interop.17.12.40391.nupkg.sha512",
+    "C:\\Users\\daby34\\.nuget\\packages\\microsoft.visualstudio.ole.interop\\17.12.40391\\microsoft.visualstudio.ole.interop.17.12.40391.nupkg.sha512"
+  ],
+  "logs": []
+}
